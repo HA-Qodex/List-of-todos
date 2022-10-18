@@ -56,7 +56,7 @@ class HomePage extends StatelessWidget {
                                               BorderRadius.circular(10)),
                                       child: Row(children: [
                                         Container(
-                                          width: MediaQuery.of(context).size.width*0.1,
+                                          width: MediaQuery.of(context).size.width*0.12,
                                           height: double.infinity,
                                           padding: const EdgeInsets.all(8),
                                           decoration: const BoxDecoration(
